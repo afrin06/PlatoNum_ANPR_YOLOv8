@@ -29,7 +29,7 @@ gdown "https://drive.google.com/uc?id=1P-oVR0J35Dw40lzw47sE19oADSW-tyb1&confirm=
 ```
 - Run the code with mentioned command below (For Licence Plate Detection).
 ```
-python predictWithOCR.py model='best.pt' source='demo.mp4'
+python predict.py model='best.pt' source='demo.mp4'
 ```
 
 ### RESULTS
